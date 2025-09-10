@@ -37,3 +37,20 @@
     border: 2px solid black;
     border-radius: 50%;
 }
+
+.red {
+    background-color: rgb(245, 116, 116);
+    height: 250px;
+    width: 2560px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(250, 75, 75);
+    border: 2px solid black;
+    border-radius: 50%;
+}
